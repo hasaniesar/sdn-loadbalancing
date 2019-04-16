@@ -272,6 +272,7 @@ global h1,h2,h3
 
 h1 = ""
 h2 = ""
+h3 = " "
 
 print "Enter Host 1"
 h1 = int(input())
